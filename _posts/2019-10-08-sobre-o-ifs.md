@@ -1,20 +1,20 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "O IFS"
+date:   2016-06-04 13:50:39
+categories: historia
+
 ---
 
-# IFS 
+# PPC
+Foi a partir da publicação da lei de criação dos Institutos Federais de Educação, Ciência e Tecnologia aplicada no ano de 2008 (Lei nº 11.892/08), que se inicia a história do Instituto Federal de Sergipe - IFS. A instituição foi princinpamente formada pela junção do Centro Federal de Educação Tecnológica de Sergipe – CEFET-SE, que se encontrava no município de Lagarto - Sergipe; e pela Escola Agrotécnica Federal de São Cristóvão – EAFSC.
 
-Foi a partir da publicação da Lei de criação dos Institutos Federais de Educação, Ciência e Tecnologia aplicada no ano de 2008 (Lei nº 11.892/08), que se inicia a história do Instituto Federal de Sergipe - IFS. A instituição foi principalmente formada pela junção do Centro Federal de Educação Tecnológica de Sergipe – CEFET-SE, que se encontrava no município de Lagarto - Sergipe; e pela Escola Agrotécnica Federal de São Cristóvão – EAFSC.
-
-Para mais detalhes e informações: Clique Aqui.
+Para mais detalhes e informações: [Clique Aqui]().
 
 # História do Campus Lagarto
-
 Tudo tem inicio em 1995, quando foi instalada na região a Unidade Descentralizada de Ensino de Lagarto (Uned- Lagarto), com o objetivo de oferecer cursos técnicos para a formação de mão de obra qualificada, para as pessoas de Lagarto e circunvizinhas nos setores de produção da região, com os cursos de Informática Industrial, Construção Civil e Eletromecânica. Em 2004 as instituições de ensino técnico se tornaram Centros Federais de Educação Tecnológica (Cefet); e essa transformação ocorreu em todo o país. Contudo, após 4 anos houve outra mudança, quando o antigo Cefet se transformou no que atualmente é chamado de Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS). A partir daí a unidade de Lagarto tornou-se o Campus Lagarto do IFS e está situado no povoado Carro Quebrado, a 3 quilômetros do centro comercial do município de Lagarto, na região centro-sul do Estado de Sergipe, oferecendo cursos superores nas áreas tecnológicas e de licenciatura.
 
-Para mais detalhes e informações Clique Aqui.
+Para mais detalhes e informações [Aqui](Clique Aqui).
 
 # Sobre o curso Bacharelado em Sistemas de Informação
 
@@ -22,8 +22,18 @@ Uma das principais áreas em que um profissional de Sistemas de Informação atu
 
 Para mais informações Clique Aqui.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Jekyll also offers powerful support for code snippets:
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

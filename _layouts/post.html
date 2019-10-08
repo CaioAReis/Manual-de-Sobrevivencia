@@ -1,5 +1,10 @@
 ---
 layout: default
+Similar:
+  enable: true
+  NumItensToShow: 6
+PageNavigation: 
+  enable: true
 ---
 <div class="post-content well">
 <article class="content">
@@ -9,11 +14,12 @@ layout: default
 </article>
 <hr />
 {% assign hasSimilar = '' %}
+{% if page.Similar.enable %}
 {% for post in site.posts  %}
     {% assign postHasSimilar = false %}
     {% for tag in post.categories %}
         {% for thisTag in page.categories %}
-            {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
+            {% if postHasSimilar == false and hasSimilar.size < page.Similar.NumItensToShow and post != page and tag == thisTag %}
                 {% if hasSimilar.size == 0 %}
                 <div class="panel-body">
                 <h4>Related Posts</h4>
@@ -31,11 +37,13 @@ layout: default
         {% endfor %}
     {% endfor %}
 {% endfor %}
+{% endif %} 
 {% if hasSimilar.size > 0 %}
     </ul>
     </div>
 {% endif %}
 
+{% if page.PageNavigation.enable %}
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev pull-left" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
@@ -44,6 +52,7 @@ layout: default
     <a class="next pull-right" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
   {% endif %}
 </div>
+{% endif %}
 
 
 <div class="disqus-comments">
