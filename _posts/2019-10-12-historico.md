@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "História do Ifs"
+title:  "História do IFS"
 date:   2019-10-12 09:36:39
 categories: historia
 
