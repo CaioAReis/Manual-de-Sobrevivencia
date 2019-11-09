@@ -1,6 +1,6 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: rgb(24, 102, 24);
+    background-color: #33b775;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -50,7 +50,7 @@ p.info a {
     margin: 20px 0 0;
 }
 .icon {
-    background: rgba(255, 255, 255, 0.63);
+    background: #78f0b4;
     border-radius: 100%;
     text-align: center;
     line-height: 20px;
@@ -62,7 +62,7 @@ p.info a {
     display: inline-block;
 }
 .icon:hover {
-    color: rgba(255, 255, 255, 0.63);
+    color: #78f0b4;
     background: #009688;
 }
 .menu ul li {
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: rgb(118, 121, 120);
+    background: #22a564;
 }
 li.current-menu-item:before {
     content: "";

@@ -7,18 +7,8 @@
   },
   {
     "text": "Sobre",
-    "url": "/about/",
+    "url": "/sobre/",
     "icon": "fa-comments"
-  },
-  {
-    "text": "Projetos",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
@@ -29,6 +19,6 @@
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
-    "target": _blank
+    "target": "blank"
   }
 ]
