@@ -42,6 +42,6 @@ Uma das principais áreas em que um profissional de **Sistemas de Informação**
 
 O curso tem 4 anos de duração, e cálculos matemáticos acompanham o estudante durante todo esse tempo. Sobre as demais disciplinas se destacam as de: **linguagem de programação, banco de dados, engenharia de software, arquitetura e redes de computadores, segurança da informação e inteligência artificial**. E a participação do estudante em projetos e em estágios são obrigatórios para a conclusão do curso. 
 
-Para mais informações [Clique Aqui](http://www.ifs.edu.br/cursos-superiores/259-cursos/superiores/4307-bacharelado-em-sistemas-de-informacao "Sobre o Curso Sistemas de Informação").
+Para mais informações [Clique Aqui](http://www.ifs.edu.br/processoseletivo/cursos/item/74-sistemas-de-informacao "Sobre o Curso Sistemas de Informação").
 
 --------------------------------
