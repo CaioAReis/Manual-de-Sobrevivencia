@@ -17,6 +17,11 @@
     "target":"_blank"
   },
   {
+    "text": "Quem Somos",
+    "url": "/quemsomos/",
+    "icon": "fa-users"
+  },
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
