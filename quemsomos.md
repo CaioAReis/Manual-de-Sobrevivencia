@@ -4,4 +4,4 @@ title: Quem Somos
 permalink: /quemsomos/
 ---
 
-Um pouco de quem somos.
+Alunos e professores responsáveis pela criação do Manual de Socrevivência.

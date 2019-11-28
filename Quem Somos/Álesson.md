@@ -6,5 +6,5 @@ permalink: /sobreAlesson/
 
 # Álesson Carlos #
 
-Sou um aluno estudande de CBSI (Curso de Bacharelado em Sistemas de Informação) que estudo no IFS Campus Lagarto, 
-gosto muito da área que é voltada para a segurança da informação e sou um entusiasta de tecnologia.
+- Estudande de CBSI (Curso de Bacharelado em Sistemas de Informação) que estuda no IFS Campus Lagarto
+- Focado na área de segurança da informação e entusiasta de tecnologia.

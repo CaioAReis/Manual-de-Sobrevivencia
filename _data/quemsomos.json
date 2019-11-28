@@ -3,28 +3,24 @@
 		"name": "Álesson Carlos",
 		"image": "alesson.jpg",
 		"url": "/sobreAlesson/",
-		"date": "Apr 2000",
 		"tags": ["Aluno"]
 	},
 	{
 		"name": "Caio Almeida",
 		"image": "caio.jpg",
 		"url": "/sobreCaio/",
-		"date": "May 2014",
 		"tags": ["Aluno"]
 	},
 	{
 		"name": "Catuxe Varjão",
 		"image": "catuxe.jpg",
 		"url": "/sobreCatuxe/",
-		"date": "June 2014",
 		"tags": ["Professor"]
 	},
 	{
 		"name": "Francisco Rodrigues",
 		"image": "francisco.jpg",
 		"url": "/sobreFrancisco/",
-		"date": "June 2014",
 		"tags": ["Professor"]
 	}
 
