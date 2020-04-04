@@ -55,7 +55,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #009688;
+    color: #33b775;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -63,7 +63,7 @@ p.info a {
 }
 .icon:hover {
     color: #78f0b4;
-    background: #009688;
+    background: #33b775;
 }
 .menu ul li {
     list-style: none;
@@ -72,16 +72,19 @@ p.info a {
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
     background: #22a564;
+    border-radius: 10px;
 }
 li.current-menu-item:before {
     content: "";
     display: inline-block;
-    height: 55px;
+    height: 40px;
     width: 5px;
     position: absolute;
-    left: 9px;
+    top: 8px;
+    left: 7px;
     vertical-align: middle;
     background: rgb(211, 35, 35);
+    border-radius: 200px;
 }
 .menu ul li a {
     font-size: 15px;
@@ -134,7 +137,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#228B2200000'
     margin: 0 0 25px 0;
 }
 .list-separator li > a i{
-    width: 56px;
+    width: 35px;
     height: 56px;
     text-align: center;
     line-height: 56px;

@@ -6,5 +6,10 @@ permalink: /sobreFrancisco/
 
 # Francisco Rodrigues #
 
-- Mestre em Sistemas e Computação com graduação em Sistemas de Informações.
+- Mestre em Sistemas e Computação com graduação em Sistemas de Informações;
 - Atualmente sou professor no Instituto Federal de Sergipe(IFS) pertencente ao curso de sistemas de informação no Campus Lagarto em Sergipe.
+ 
+## Redes Sociais ##
+
+- [Twitter](https://twitter.com/frchico)  
+- [Github](https://github.com/frchico)
